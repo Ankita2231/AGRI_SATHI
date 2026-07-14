@@ -71,4 +71,4 @@ Access the frontend on the port Vite reports (usually `http://localhost:5173`) a
 
 ---
 
-If you'd like, I can also add a `.env.example` file to the repo and commit it for convenience—shall I add that? 
+
